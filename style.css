@@ -13,7 +13,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Quicksand', Arial, sans-serif;
-    font-weight: 600; /* Slightly lighter than bold for softness */
+    font-weight: 600; 
 }
 
 /* Navbar */
@@ -70,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 .focus-title {
     font-size: 3rem;
     font-weight: bold;
-    color: #167ff0; /* Highlight color for emphasis */
+    color: #167ff0; 
 }
 
 .intro-text {
@@ -369,4 +369,5 @@ h1, h2, h3, h4, h5, h6 {
 .site-footer p {
     margin: 0;
 }
+
 
